@@ -14,3 +14,4 @@ while PW_Eingabe != PW:
 
 # Wenn das richtige Passwort eingegeben wurde,geben wir folgendes aus
 print("Danke für die Eingabe")
+print(PW_Eingabe)
